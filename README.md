@@ -10,7 +10,7 @@ Este repositorio contiene los ejercios de programacion en java del taller de niv
 
 ## Instrucciones 
 1. Clona el repositorio 
-2. Navega a cada direstorio de ejercicios 
+2. Navega a cada directorio de ejercicios 
 3. Compila y ejecuta los archivos en java para probarlos 
 
 
